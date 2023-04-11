@@ -1,5 +1,17 @@
-{ "danhsach" : [
-	{"khoahoc" : "Lập trình Java"},
-	{"khoahoc" : "Lập trình Android"},
-	{"khoahoc" : "Lập trình IOS"}]
+{ "language" : {
+	"en" : {
+		"name" : "Dang Duy Tranning",
+		"address" : "Ha Noi",
+		"subject1" : "Android",
+		"subject2" : "Java",
+		"subject3" : "IOS"
+	},
+	"vn" : {
+		"name" : "Trung Tâm Đào Tạo Đặng Duy",
+		"address" : "Hà Nội",
+		"subject1" : "Lập trình Android",
+		"subject2" : "Lập trình Java",
+		"subject3" : "Lập trình IOS"
+	}
+}	
 }
