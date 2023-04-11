@@ -1,5 +1,5 @@
 { "danhsach" : [
-	"khoahoc" : {Lập trình Java},
-	"khoahoc" : {Lập trình Android},
-	"khoahoc" : {Lập trình IOS}]
+	{"khoahoc" : "Lập trình Java"},
+	{"khoahoc" : "Lập trình Android"},
+	{"khoahoc" : "Lập trình IOS"}]
 }
